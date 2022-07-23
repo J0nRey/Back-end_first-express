@@ -2,3 +2,4 @@
 fs + Express, Async and Await
 
 Para esta practica hay que instalar dependencias de desarrollo "node_modules" mosmas que aqui no estan
+Y estan separadas, la DB esta en routers
