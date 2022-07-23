@@ -1,0 +1,61 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Beto",
+      "gender": "m"
+    },
+    {
+      "id": 2,
+      "name": "Walter",
+      "gender": "m"
+    },
+    {
+      "id": 3,
+      "name": "Mariana",
+      "gender": "f"
+    },
+    {
+      "id": 4,
+      "name": "Damian",
+      "gender": "m"
+    },
+    {
+      "id": 5,
+      "name": "Silvi",
+      "gender": "f"
+    },
+    {
+      "id": 7,
+      "name": "taquito",
+      "gender": "f"
+    },
+    {
+      "id": 8,
+      "name": "javier",
+      "gender": "m"
+    }
+  ],
+  "mentors":[
+    {
+      "id": 1,
+      "name":"oso",
+      "module":"hello"
+    },
+    {
+      "id": 2,
+      "name":"Melisa",
+      "module":"hello"
+    },
+    {
+      "id": 3,
+      "name":"Isra",
+      "module":"maquetado"
+    },
+    {
+      "id": 4,
+      "name":"Charles",
+      "module":"Back"
+    }
+  ]
+}
